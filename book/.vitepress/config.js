@@ -4,7 +4,7 @@ export default {
     cleanUrls: true,
     themeConfig: {
         siteTitle: 'IYNO',
-        logo: 'images/logo.png',
+        logo: '/logo.png',
         outline: 'deep',
         footer: {
             message: 'Copyright © 2023',
