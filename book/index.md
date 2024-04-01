@@ -10,9 +10,6 @@ hero:
     alt: IYNO Logo
   actions:
     - theme: brand
-      text: Read the more stable version
+      text: Read the book
       link: ./level-0/Introduction
-    - theme: alt
-      text: Read the version that is updated daily
-      link: https://iyno-book.notion.site/A-practical-Approach-to-Neurosurgery-Book-c17fee357ac14b7eae729888698f6627
 ---

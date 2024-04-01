@@ -14,9 +14,9 @@ export default {
             {text: 'Knowlesge Level 0', collapsed: true, items:[{text: 'Introduction', link: '../level-0/Introduction'}]},
             {text: 'Knowledge Level 1', collapsed: true, items:[
                 {text: 'Introduction', link:''},
-                {text: 'Lobes', items:[
-                    {text: 'Surface Features', link: ''},
-                    {text: 'Deep Features', link: ''}
+                {text: 'Spinal Cord', items:[
+                    {text: 'Overview', link: '../spinal cord/overview'},
+                    {text: 'Deep Features', link: '../spinal cord/'}
                 ]}
             ]}
         ]
