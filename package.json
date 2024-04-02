@@ -1,17 +1,11 @@
 {
-  "name": "iyno-book",
-  "version": "0.1.0",
-  "description": "The source code for the Official IYNO Book (A Practical Approach to Neurosurgery)",
-  "main": "index.js",
-  "scripts": {
-    "book:dev": "vitepress dev book --host",
-    "book:build": "vitepress build book",
-    "book:preview": "vitepress preview book"
-  },
-  "author": "Muhammad Saqib Hussain",
-  "license": "MIT",
+  "dependencies": {},
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.49",
-    "vue": "^3.2.47"
+    "vitepress": "^1.0.2"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
   }
 }
