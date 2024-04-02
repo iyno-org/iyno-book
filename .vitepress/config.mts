@@ -4,11 +4,13 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Neurosurgery Simplified: A beginner's Guide",
   description: "A beginners guide to start learning neurosurgery.",
+  srcDir: 'book',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'The Why', link: '/the why' },
+      { text: 'Privacy Policy', link: '/privacy'}
     ],
 
     sidebar: [

@@ -1,0 +1,1 @@
+Based in the EU, we try not to collect any data whatsoever but our hosting provider Digitalocean might receive some analytics.
