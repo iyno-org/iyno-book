@@ -6,12 +6,12 @@ hero:
   name: "Neurosurgery Simplified: A beginner's Guide"
   image:
     src: /book-icon.svg
-    alt: amth
+    alt: Book icon
   tagline: A beginners guide to start learning neurosurgery.
   actions:
     - theme: brand
       text: Let's Get Started
-      link: /overview
+      link: /0. preface/
     # - theme: alt
     #   text: API Examples
     #   link: /api-examples

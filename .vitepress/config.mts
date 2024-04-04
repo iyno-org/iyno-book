@@ -9,16 +9,23 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'The Why', link: '/the why' },
+      { text: 'The Why', link: '/0. Preface/' },
       { text: 'Privacy Policy', link: '/privacy'}
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        // text: '0. Preface',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'The Why', link: '/0. preface/' },
+        ],      
+      },
+      {
+        text: '1. Spinal cord',
+        items: [
+          {text: 'Overview', link:'/1. spinal cord/overview'},
+          {text: 'Bone Structure', link:'/1. spinal cord/'},
+          {text: 'Tractology', link:'/1. spinal cord/tractology'},
         ]
       }
     ],
