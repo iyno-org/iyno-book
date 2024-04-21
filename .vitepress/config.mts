@@ -20,6 +20,16 @@ export default defineConfig({
           { text: 'The Why', link: '/0. preface/' },
         ],      
       },
+
+      {
+        text: 'A. NEUROANATOMY',
+        items: [
+          { text: '01. Embryology', link: '/A. Neuroanatomy/01. Embryology'},
+          { text: '02. Cerebrum', link: '/A. Neuroanatomy/02. Cerebrum'},
+        ],
+      },
+
+
       {
         text: '1. Spinal cord',
         items: [
