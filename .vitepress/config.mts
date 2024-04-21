@@ -26,6 +26,7 @@ export default defineConfig({
           {text: 'Overview', link:'/1. spinal cord/overview'},
           {text: 'Bone Structure', link:'/1. spinal cord/'},
           {text: 'Tractology', link:'/1. spinal cord/tractology'},
+          {text: 'Blood Supply', link:'/1. spinal cord/blood supply'},
         ]
       }
     ],
