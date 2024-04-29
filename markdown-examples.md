@@ -1,3 +1,15 @@
+::: tip Basics
+The basics of the topic from the Brain Facts book.
+:::
+
+::: warning Details
+From Snell's and other books.
+:::
+
+::: danger Advanced
+Gray Clinical Neuroanatomy and Youmann and Winn!
+:::
+
 # Markdown Extension Examples
 
 This page demonstrates some of the built-in markdown extensions provided by VitePress.

@@ -24,8 +24,8 @@ export default defineConfig({
       {
         text: 'A. NEUROANATOMY',
         items: [
-          { text: '01. Embryology', link: '/A. Neuroanatomy/01. Embryology'},
-          { text: '02. Cerebrum', link: '/A. Neuroanatomy/02. Cerebrum'},
+          { text: '01. Embryology', link: '/A. Neuroanatomy/01. Embryology/Embryology'},
+          { text: '02. Cerebrum', link: '/A. Neuroanatomy/02. Cerebrum/Cerebrum'},
         ],
       },
 
