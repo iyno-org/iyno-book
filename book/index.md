@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Neurosurgery Simplified: A beginner's Guide"
   image:
-    src: book-icon.svg
+    src: /book-icon.svg
     alt: Book icon
   tagline: A beginners guide to start learning neurosurgery.
   actions:
