@@ -1,43 +1,41 @@
 import {
   useMediaQuery
-} from "./chunk-WZSWIX5T.js";
+} from "./chunk-TMJRXOLS.js";
 import {
   computed,
   ref,
   shallowRef,
   watch
-} from "./chunk-Z6B2QTD3.js";
+} from "./chunk-K3FWHB6B.js";
 
 // node_modules/vitepress/dist/client/theme-default/index.js
-import "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/styles/fonts.css";
+import "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/styles/fonts.css";
 
 // node_modules/vitepress/dist/client/theme-default/without-fonts.js
-import "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/styles/vars.css";
-import "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/styles/base.css";
-import "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/styles/icons.css";
-import "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/styles/utils.css";
-import "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/styles/components/custom-block.css";
-import "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code.css";
-import "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code-group.css";
-import "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/styles/components/vp-doc.css";
-import "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/styles/components/vp-sponsor.css";
-import VPBadge from "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
-import Layout from "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/Layout.vue";
-import { default as default2 } from "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
-import { default as default3 } from "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPImage.vue";
-import { default as default4 } from "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPButton.vue";
-import { default as default5 } from "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPHomeHero.vue";
-import { default as default6 } from "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPHomeFeatures.vue";
-import { default as default7 } from "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPHomeSponsors.vue";
-import { default as default8 } from "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPDocAsideSponsors.vue";
-import { default as default9 } from "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPSponsors.vue";
-import { default as default10 } from "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPTeamPage.vue";
-import { default as default11 } from "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageTitle.vue";
-import { default as default12 } from "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageSection.vue";
-import { default as default13 } from "/home/msh/Desktop/Projects/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPTeamMembers.vue";
-
-// node_modules/vitepress/dist/client/shared.js
-var inBrowser = typeof document !== "undefined";
+import "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/styles/vars.css";
+import "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/styles/base.css";
+import "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/styles/icons.css";
+import "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/styles/utils.css";
+import "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/styles/components/custom-block.css";
+import "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code.css";
+import "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code-group.css";
+import "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/styles/components/vp-doc.css";
+import "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/styles/components/vp-sponsor.css";
+import VPBadge from "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
+import Layout from "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/Layout.vue";
+import { default as default2 } from "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
+import { default as default3 } from "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPImage.vue";
+import { default as default4 } from "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPButton.vue";
+import { default as default5 } from "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPHomeContent.vue";
+import { default as default6 } from "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPHomeHero.vue";
+import { default as default7 } from "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPHomeFeatures.vue";
+import { default as default8 } from "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPHomeSponsors.vue";
+import { default as default9 } from "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPDocAsideSponsors.vue";
+import { default as default10 } from "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPSponsors.vue";
+import { default as default11 } from "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPTeamPage.vue";
+import { default as default12 } from "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageTitle.vue";
+import { default as default13 } from "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageSection.vue";
+import { default as default14 } from "/home/msh/Desktop/Projects/new-and-improved/iyno-book/node_modules/vitepress/dist/client/theme-default/components/VPTeamMembers.vue";
 
 // node_modules/vitepress/dist/client/theme-default/support/utils.js
 import { withBase } from "vitepress";
@@ -91,14 +89,6 @@ function addBase(items, _base) {
     if (item.items)
       item.items = addBase(item.items, base);
     return item;
-  });
-}
-
-// node_modules/vitepress/dist/client/theme-default/composables/hash.js
-var hashRef = ref(inBrowser ? location.hash : "");
-if (inBrowser) {
-  window.addEventListener("hashchange", () => {
-    hashRef.value = location.hash;
   });
 }
 
@@ -205,23 +195,22 @@ function resolveHeaders(headers, range) {
     resolvedHeaders.push({ element, link });
   }
   const ret = [];
-  outer:
-    for (let i = 0; i < headers.length; i++) {
-      const cur = headers[i];
-      if (i === 0) {
-        ret.push(cur);
-      } else {
-        for (let j = i - 1; j >= 0; j--) {
-          const prev = headers[j];
-          if (prev.level < cur.level) {
-            ;
-            (prev.children || (prev.children = [])).push(cur);
-            continue outer;
-          }
+  outer: for (let i = 0; i < headers.length; i++) {
+    const cur = headers[i];
+    if (i === 0) {
+      ret.push(cur);
+    } else {
+      for (let j = i - 1; j >= 0; j--) {
+        const prev = headers[j];
+        if (prev.level < cur.level) {
+          ;
+          (prev.children || (prev.children = [])).push(cur);
+          continue outer;
         }
-        ret.push(cur);
       }
+      ret.push(cur);
     }
+  }
   return ret;
 }
 
@@ -252,16 +241,17 @@ var without_fonts_default = theme;
 export {
   default2 as VPBadge,
   default4 as VPButton,
-  default8 as VPDocAsideSponsors,
-  default6 as VPHomeFeatures,
-  default5 as VPHomeHero,
-  default7 as VPHomeSponsors,
+  default9 as VPDocAsideSponsors,
+  default5 as VPHomeContent,
+  default7 as VPHomeFeatures,
+  default6 as VPHomeHero,
+  default8 as VPHomeSponsors,
   default3 as VPImage,
-  default9 as VPSponsors,
-  default13 as VPTeamMembers,
-  default10 as VPTeamPage,
-  default12 as VPTeamPageSection,
-  default11 as VPTeamPageTitle,
+  default10 as VPSponsors,
+  default14 as VPTeamMembers,
+  default11 as VPTeamPage,
+  default13 as VPTeamPageSection,
+  default12 as VPTeamPageTitle,
   without_fonts_default as default,
   useLocalNav,
   useSidebar

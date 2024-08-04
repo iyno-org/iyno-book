@@ -3,11 +3,11 @@
 layout: home
 
 hero:
-  name: "Neurosurgery Simplified: A beginner's Guide"
+  name: "Holistic Clinical Neurosurgery"
   image:
     src: /book-icon.svg
     alt: Book icon
-  tagline: A beginners guide to start learning neurosurgery.
+  tagline: A Holistic Approach to start Learning Neurosurgery.
   actions:
     - theme: brand
       text: Let's Get Started
@@ -20,7 +20,7 @@ features:
   - title: Completely Free
     details: We believe Education should be free for everyone.
   - title: Open-Source
-    details: The complete scripts and images can be downloaded.
+    details: The complete scripts and images can be downloaded with relavant credits.
   - title: Factually correct
     details: Checked by students of Medicine. We aren't perfect but this is correct to the best of our knowledge. 😊
 ---
