@@ -7,7 +7,6 @@ A patient presents with a complaint of severe back pain. He is a student who rec
 ### Relevant anatomical background
 This is the case of lumbar disk herniation. Now to understand these terms, we need to first learn more about the general structure of the spinal cord and its organization.
 
-#### Overview
 The spinal cord is situated within the vertebral canal of the vertebral column and is surrounded by three coverings known as the meninges.
 The spinal cord is like a cylinder begins at the end of the brain and ends in the lumbar region of the vertebral column.
 
@@ -25,9 +24,8 @@ The spinal cord is organized into nerve roots each of which exit from the gaps w
 
 Along the entire length of the spinal cord, 31 pairs of spinal nerves consist of the anterior or ventral or motor roots and the posterior or dorsal or sensory roots. Each root also contains the dorsal root ganglion, the cells of which give rise to peripheral and central nerve fibers.
 
-![Image](./spinal%20cord%20overview.png)
+<p><a href="https://commons.wikimedia.org/wiki/File:Diagram_of_the_spinal_cord_CRUK_046.svg#/media/File:Diagram_of_the_spinal_cord_CRUK_046.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Diagram_of_the_spinal_cord_CRUK_046.svg" alt="Diagram of the spinal cord CRUK 046.svg" height="542" width="402";></a><br>By Cancer Research UK - Original email from CRUK, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=34332941">Link</a></p>
 
-
-Now coming back to the question of the medical student;s injury, the herniation occurred on the right side and was relatively small. This herniation occurred between L5 and S1 spinal cord levels and the posterior (dorsal) roots of the spinal cord were compressed. The image
+Now coming back to the question of the medical student's injury, the herniation occurred on the right side and was relatively small. This herniation occurred between L5 and S1 spinal cord levels and the posterior (dorsal) roots of the spinal cord were compressed. The image
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Lumbar_Disc_Lesions_Classification.jpg#/media/File:Lumbar_Disc_Lesions_Classification.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Lumbar_Disc_Lesions_Classification.jpg" alt="Lumbar disc lesions, classification" height="503" width="467"></a><br>Figure ; By <a href="https://en.wikipedia.org/wiki/User:Harrygouvas" class="extiw" title="wikipedia:User:Harrygouvas">Harrygouvas</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49856589">Link</a></p>
