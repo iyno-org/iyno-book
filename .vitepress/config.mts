@@ -22,6 +22,11 @@ export default defineConfig({
       },
 
       {
+        text: 'December 2024',
+        link: '/files/dec2024.md',
+      },
+
+      {
         text: 'A. NEUROANATOMY',
         link: '/A. Neuroanatomy/neuroanatomy.md',
         items: [
