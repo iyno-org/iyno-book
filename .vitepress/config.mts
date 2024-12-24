@@ -23,23 +23,23 @@ export default defineConfig({
 
       {
         text: 'December 2024',
-        link: '/files/dec2024.md',
+        link: '/files/December 2024.md',
       },
 
-      {
-        text: 'A. NEUROANATOMY',
-        link: '/A. Neuroanatomy/neuroanatomy.md',
-        items: [
-          { text: 'Spinal Cord',
-            link: '/A. Neuroanatomy/spinal cord/overview.md',
-            items: [
-              {text: 'General Spinal Cord Malformations', link: '/A. Neuroanatomy/spinal cord/general spinal cord malformations'}
-            ]
-          },
-          // { text: '01. Embryology', link: '/A. Neuroanatomy/01. Embryology/Embryology'},
-          // { text: '02. Cerebrum', link: '/A. Neuroanatomy/02. Cerebrum/Cerebrum'},
-        ],
-      },
+      // {
+      //   text: 'A. NEUROANATOMY',
+      //   link: '/A. Neuroanatomy/neuroanatomy.md',
+      //   items: [
+      //     { text: 'Spinal Cord',
+      //       link: '/A. Neuroanatomy/spinal cord/overview.md',
+      //       items: [
+      //         {text: 'General Spinal Cord Malformations', link: '/A. Neuroanatomy/spinal cord/general spinal cord malformations'}
+      //       ]
+      //     },
+      //     // { text: '01. Embryology', link: '/A. Neuroanatomy/01. Embryology/Embryology'},
+      //     // { text: '02. Cerebrum', link: '/A. Neuroanatomy/02. Cerebrum/Cerebrum'},
+      //   ],
+      // },
 
 
       // {

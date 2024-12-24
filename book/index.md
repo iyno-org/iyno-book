@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Let's Get Started
-      link: /0. preface/
+      link: /files/
     # - theme: alt
     #   text: API Examples
     #   link: /api-examples
