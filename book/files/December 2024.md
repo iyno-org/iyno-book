@@ -1,4 +1,8 @@
 # Daily Updates
+## 26th December
+Fixed some spelling mistakes and made the github commit. Wrote everything in the typst online editor. Also added the image from wikipedia. Also thought about how to write sidenotes in the image page. Its relatively easy as I can write a caption below the image and then write sidenotes in it. I also write numbered:false in the caption so that I don't have a really long list of numbers in the caption.
+
+
 ## 25th December
 ### Corticospinal Tract
 The Corticospinal Tract fibers originate in the Precentral gyrus of the brain. They travel through the Internal capsule and the corona radiata reaching the ventral (backside) of the pons. Here is where this chapter begins. These fibers then arrange in the pons to form the medullary pyramids and for this reason, the corticospinal tract is also known as the pyramidal tract.
