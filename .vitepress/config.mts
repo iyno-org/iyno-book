@@ -17,13 +17,17 @@ export default defineConfig({
       {
         // text: '0. Preface',
         items: [
-          { text: 'The Why', link: '/0. preface/' },
+          { text: 'The Why', link: 'files/index.md' },
         ],      
       },
 
       {
         text: 'December 2024',
         link: '/files/December 2024.md',
+      },
+      {
+        text: 'January 2025',
+        link: 'Janauary 2025/january2025.md'
       },
 
       // {
